@@ -1,0 +1,24 @@
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/SirinanMatvijit/pluginHost.git
+	ignore = dirty
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/SirinanMatvijit/pluginInterface.git
+	ignore = dirty
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/SirinanMatvijit/plugin1.git
+	ignore = dirty
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/SirinanMatvijit/plugin2.git
+	ignore = dirty
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/SirinanMatvijit/plugin3.git
+	ignore = dirty
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/SirinanMatvijit/plugin4.git
+	ignore = dirty
